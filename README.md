@@ -10,3 +10,5 @@ How to run the app?
 What is ```dictionary_alpha_arrays.json```?
 
 - See here: https://github.com/matthewreagan/WebstersEnglishDictionary
+
+**Specifications**
