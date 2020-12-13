@@ -1,6 +1,7 @@
 # pop-quiz
-Testing the fundamentals of Python and Flask
+***Testing the fundamentals of Python and Flask
 
+How to run the app?
 ```$ export FLASK_APP=app.py```
 
 ```$ flask run```
